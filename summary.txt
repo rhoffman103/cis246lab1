@@ -1,0 +1,6 @@
+command 'uname -n' returns the system name which could vary from system to system
+
+command 'man 5 passwd' returns the message 'no manual entry for passwd in section 5'
+
+
+
